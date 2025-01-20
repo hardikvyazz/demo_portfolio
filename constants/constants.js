@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Hardik Vyas';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | Wordpress Developer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'India',
+  City: 'Bangalore',
+  Age: '25',
 };
 
 export const SKILLS = [
@@ -15,7 +15,7 @@ export const SKILLS = [
   },
   {
     title: 'React Developer',
-    level: '91%',
+    level: '80%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -23,7 +23,7 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '90%',
   },
   {
     title: 'Technical Blogger',
@@ -56,12 +56,11 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'hardikvyas.dev@gmail.com',
+  PHONE: '+91-76769984455',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/hardikvyazz',
+  LINKEDIN: 'https://www.linkedin.com/in/hardikvyaz/',
+  X: 'https://x.com/Hardikvyaz',
 };
