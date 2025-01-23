@@ -38,9 +38,7 @@ export const TECH_STACK = [
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
   'Ant Design',
   'Material UI',
@@ -51,8 +49,9 @@ export const TECH_STACK = [
   'Git',
   'GitHub',
   'Jira',
-  'Figma',
-  'Adobe XD',
+  'Redis',
+  'Wordpress',
+  'Nginx'
 ];
 
 export const CONTACTS = {
